@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Zony+wishes+you+a+joyful+day.)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zony)](https://git.io/streak-stats)
